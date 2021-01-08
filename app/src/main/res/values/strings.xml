@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mars Weather</string>
+    <string name="sol">Sol: </string>
+    <string name="temperature">Temperature: </string>
+    <string name="pressure">Pressure: </string>
+    <string name="wind">Wind: </string>
+    <string name="no_data"> No data</string>
+    <string name="title_text">Last weather from Mars at Elysium Planitia</string>
+</resources>
